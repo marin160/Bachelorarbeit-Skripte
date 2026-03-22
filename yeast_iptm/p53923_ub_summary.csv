@@ -1,0 +1,7 @@
+Name:,Complex name:,Uniprot Accession Number:,% Identity:,% Diff:,ipTM:
+p53923_ub,p53923_ub,,100.0,0.0,0.85
+p53923_ub_h25,p53923_ub,A0A642V990,24.82,75.18,0.16
+p53923_ub_h30,p53923_ub,A0A376B7P8,29.56,70.44,0.52
+p53923_ub_h35,p53923_ub,A0A1G4IUH1,33.94,66.06,0.83
+p53923_ub_h40,p53923_ub,A0A0C7N8P8,38.51,61.49,0.69
+p53923_ub_h45,p53923_ub,H2B0X2,41.36,58.64,0.49
