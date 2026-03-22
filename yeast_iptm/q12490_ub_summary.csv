@@ -1,0 +1,5 @@
+Name:,Complex name:,Uniprot Accession Number:,% Identity:,% Diff:,ipTM:
+q12490_ub,q12490_ub,,100.0,0.0,0.86
+q12490_ub_h25,q12490_ub,G8ZUH5,21.99,78.01,0.25
+q12490_ub_h50,q12490_ub,A0AA35NLP0,49.05,50.95,0.33
+q12490_ub_h95,q12490_ub,A0A0L8VT75,90.07,9.930000000000007,0.89
