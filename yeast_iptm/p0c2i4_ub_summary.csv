@@ -1,0 +1,8 @@
+Name:,Complex name:,Uniprot Accession Number:,% Identity:,% Diff:,ipTM:
+p0c2i4_ub,p0c2i4_ub,,100.0,0.0,0.89
+p0c2i4_ub_h25,p0c2i4_ub,G0W5P7,22.28,77.72,0.25
+p0c2i4_ub_h30,p0c2i4_ub,A0A7H9HN04,28.72,71.28,0.59
+p0c2i4_ub_h50,p0c2i4_ub,A0AA35ND33,48.72,51.28,0.22
+p0c2i4_ub_h65,p0c2i4_ub,UPI0006C1674E,60.51,39.49,0.25
+p0c2i4_ub_h70,p0c2i4_ub,A0AA35JE33,65.46,34.540000000000006,0.25
+p0c2i4_ub_h85,p0c2i4_ub,A6ZMH7,80.51,19.489999999999995,0.89

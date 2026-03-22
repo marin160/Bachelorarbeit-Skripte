@@ -1,0 +1,9 @@
+Name:,Complex name:,Uniprot Accession Number:,% Identity:,% Diff:,ipTM:
+p0cx69_ub,p0cx69_ub,,100.0,0.0,0.77
+p0cx69_ub_h25,p0cx69_ub,A7TMQ1,24.73,75.27,0.17
+p0cx69_ub_h30,p0cx69_ub,A0A7H9HN04,28.65,71.35,0.59
+p0cx69_ub_h35,p0cx69_ub,A7TJX5,30.11,69.89,0.22
+p0cx69_ub_h50,p0cx69_ub,A0AA35ND33,48.99,51.01,0.22
+p0cx69_ub_h65,p0cx69_ub,A0AA35NLP0,64.32,35.68000000000001,0.32
+p0cx69_ub_h70,p0cx69_ub,A0AA35JE33,65.99,34.010000000000005,0.25
+p0cx69_ub_h85,p0cx69_ub,A6ZMH7,80.4,19.599999999999994,0.89
