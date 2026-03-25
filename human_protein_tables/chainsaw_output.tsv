@@ -1,0 +1,15 @@
+chain_id	sequence_md5	nres	ndom	chopping	confidence	time_sec
+fold_otud4xubb_human_model_0B	4bbff14e49fc0da0d3902dab2290abdd	76	1	2-71	0.993	5.338
+q96b97_ub_modelB	4bbff14e49fc0da0d3902dab2290abdd	76	1	2-71	0.994	0.023
+fold_epn2xubb_human_model_0A	d8ffe1387e132d99c7840420e729f7cb	640	1	3-169_249-318	0.737	0.291
+fold_dux4cxubb_human_model_0B	4bbff14e49fc0da0d3902dab2290abdd	76	1	2-71	0.994	0.025
+fold_otud4xubb_human_model_0A	694ab9b1c1eba2e512c8161c7d05ccac	1114	2	24-283,288-336	0.663	0.655
+fold_ptgisxubb_human_model_0A	aa3f811fe9f299c96f620b03d3619b76	500	2	1-104_354-385,105-303_318-353_436-498	0.67	0.157
+fold_rad23axubb_human_model_0A	e5517412e0c936c35a4f9e7f6820b3aa	363	4	3-76,160-200,232-285,318-359	0.865	0.141
+fold_muc1xubb_human_model_0B	4bbff14e49fc0da0d3902dab2290abdd	76	1	2-71	0.995	0.023
+fold_muc1xubb_human_model_0A	7c2c426032f956a2a11c259cd44b19e4	1255	2	6-41_1149-1192,1040-1144	0.692	0.762
+fold_rad23axubb_human_model_0B	4bbff14e49fc0da0d3902dab2290abdd	76	1	2-71	0.994	0.024
+fold_dux4cxubb_human_model_0A	725af56855ecf177fa1a4c6a61311886	374	1	14-148	0.757	0.115
+fold_ptgisxubb_human_model_0B	4bbff14e49fc0da0d3902dab2290abdd	76	1	2-71	0.993	0.031
+q96b97_ub_modelA	807c6652426e2c865fff6af40bc7a729	665	2	2-154,271-325	0.721	0.371
+fold_epn2xubb_human_model_0B	4bbff14e49fc0da0d3902dab2290abdd	76	1	2-71	0.995	0.024
